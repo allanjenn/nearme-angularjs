@@ -1,0 +1,29 @@
+#my-div {
+	text-align: center;
+}
+
+#my-div>a {
+	background-color: #6699FF;
+	color:white;
+	padding: 20px;
+	text-decoration: none;
+	border-radius: 2px;
+	font-size: 16px;
+}
+
+#my-div>a:hover {
+	background-color: #1F5C99;
+
+}
+
+h1 {
+	padding-top: 200px;
+
+	margin: 42;
+}
+
+ p {
+ 	margin-top: 40px;
+	margin-bottom: 50px;
+	font-size: 16px;
+}

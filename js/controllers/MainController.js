@@ -9,7 +9,4 @@ app.controller('MainController', ['$scope', 'places', function($scope, places) {
 	  $scope.geodata = data;
       $scope.mapMarkers = geodataToMarkers($scope.geodata);
 	});
-
-
-
 }]);
